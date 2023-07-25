@@ -1,1 +1,1 @@
-const userNumber = prompt("Inserisci un numero");
+const userNumber = parseInt(prompt("Inserisci un numero"));
